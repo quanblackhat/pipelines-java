@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: LAPTOP-E5DIL8IA
 
 steps:
 - task: Maven@3
